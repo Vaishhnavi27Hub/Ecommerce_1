@@ -1,0 +1,321 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ecommerce-nb-logo {
+    height: 80px;
+    width: 100px;
+}
+
+#navitem1 {
+    color: black;
+}
+
+#navitem2 {
+    color: black;
+}
+
+#navitem3 {
+    color: black;
+}
+
+#navitem4 {
+    color: black;
+}
+
+#navitem5 {
+    color: black;
+}
+
+.ecommerce-services-bg-container {
+    background-color: white;
+}
+
+.ecommerce-services-heading {
+    color: #183b56;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.ecommerce-services-para {
+    color: #616c7c;
+    font-size: 20px;
+}
+
+.ecommerce-service-card {
+    background-color: white;
+}
+
+.ecommerce-service-card-img {
+    height: 60px;
+    width: 60px;
+}
+
+.ecommerce-service-card-heading {
+    color: #1f2933;
+    font-size: 25px;
+}
+
+.ecommerce-service-card-para {
+    color: #7b8794;
+    font-size: 20px;
+}
+
+.ecommerce-product-bg-container {
+    background-color: white;
+}
+
+.ecommerce-product-heading {
+    color: #183b56;
+}
+
+.ecommerce-product-card {
+    border-radius: 5px;
+    border-width: 0px;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    height: 300px;
+}
+
+.ecommerce-product-card-heading {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.ecommerce-product-card-para {
+    color: white;
+    font-size: 15px;
+}
+
+.ecommerce-product-card-button {
+    background-color: white;
+    color: #ff9f00;
+    border-width: 0px;
+    border-radius: 10px;
+}
+
+.modal-h {
+    color: #323f4b;
+    font-size: 25px;
+}
+
+.modal-p {
+    color: #323f4b;
+    font-size: 10px;
+}
+
+.modal-span-style {
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.modal-b {
+    color: #323f4b;
+    background-color: transparent;
+    border-color: #323f4b;
+    border-width: 2px;
+    border-style: solid;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.ecommerce-product-card-1 {
+    border-radius: 5px;
+    border-width: 0px;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    height: 300px;
+}
+
+.explore-product-link {
+    color: #ff9f00;
+    font-size: 15px;
+}
+
+.ecommerce-offers-bg-container {
+    background-image: linear-gradient(to right, #f49541, #dd5d97, #ad2167);
+}
+
+.ecommerce-offers-img-1 {
+    width: 100%;
+}
+
+.ecommerce-offers-heading {
+    color: #ad2167;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.ecommerce-offers-para-1 {
+    color: white;
+    font-size: 25px;
+}
+
+.span-1 {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.span-2 {
+    color: #f49541;
+    font-style: italic;
+    font-size: 25px;
+}
+
+.ecommerce-offers-para-2 {
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+
+.ecommerce-trending-bg-container {
+    color: white;
+}
+
+.ecommerce-trending-heading {
+    color: #183b56;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.ecommerce-trending-card {
+    background-color: white;
+    border-radius: 5px
+}
+
+.ecommerce-trending-card-img {
+    width: 100%;
+    border-radius: 2px;
+}
+
+.ecommerce-trending-card-heading-1 {
+    color: #959ead;
+    font-size: 10px;
+}
+
+.ecommerce-trending-card-heading-2 {
+    color: #183b56;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ecommerce-trending-card-para {
+    color: #959ead;
+    font-size: 15px;
+}
+
+.ecommerce-trending-card-link {
+    color: #ff9f00;
+    font-size: 10px;
+}
+
+.ecommerce-explore-bg-container {
+    background-color: #f5f7fa;
+}
+
+.ecommerce-explore-heading {
+    color: #183b56;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.ecommerce-explore-card {
+    background-color: white;
+    border-radius: 8px;
+}
+
+.ecommerce-explore-card-heading {
+    color: #183b56;
+    font-size: 25px;
+}
+
+.ecommerce-explore-card-img {
+    height: 80px;
+    width: 80px;
+    border-radius: 8px;
+    margin: 2px;
+}
+
+.ecommerce-explore-card-img-h {
+    color: #1f2933;
+    font-size: 15px;
+}
+
+.ecommerce-explore-card-link {
+    color: #ff9f00;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.ecommerce-explore-card-img-2 {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.ecommerce-cu-bg-container {
+    background-color: #f5f7fa;
+}
+
+.ecommerce-cu-heading {
+    color: #183b56;
+    font-size: 30px;
+}
+
+.ecommerce-cu-button {
+    background-color: transparent;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 3px;
+    color: #ff9f00;
+    border-color: #ff9f00;
+}
+
+.ecommerce-footer-bg-container {
+    background-color: #0d2436;
+}
+
+.ecommerce-footer-logo {
+    height: 80px;
+    width: 120px;
+}
+
+.ecommerce-footer-icon-bg {
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+    background-color: #152c3e;
+    padding: 5px;
+}
+
+.ecommerce-footer-icon {
+    color: #5a7184;
+}
+
+.ecommerce-footer-h-1 {
+    color: #5a7184;
+    font-size: 13px;
+}
+
+.ecommerce-footer-ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.ecommerce-footer-li-h {
+    color: #5a7184;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.ecommerce-footer-li-p {
+    color: #5a7184;
+    font-size: 10px;
+}
+
+.h-line {
+    width: 100%;
+    background-color: #5a7184;
+}
